@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Ramu%20Nirudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React.js%20|%20Node.js%20Developer&descAlignY=55"/>
 
-# Hi there 👋 I'm Ramu Nirudi
+# Hi 👋 I'm Ramu Nirudi
 
 ### 🚀 Full Stack Developer | React.js | Node.js 
 
