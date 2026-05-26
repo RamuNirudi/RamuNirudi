@@ -34,15 +34,7 @@ React + Email Integration
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RamuNirudi&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamuNirudi&layout=compact)
-
----
-
 ## Connect with me
 
 LinkedIn: https://www.linkedin.com/in/nirudi-ramu
-#Portfolio: your-website-link
+
