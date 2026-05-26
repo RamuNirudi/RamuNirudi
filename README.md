@@ -123,8 +123,4 @@ Features:
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/RamuNirudi/RamuNirudi/blob/output/github-contribution-grid-snake.svg)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer"/>
