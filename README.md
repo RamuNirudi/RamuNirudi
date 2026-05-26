@@ -8,7 +8,7 @@
 - 🔥 Learning AI & DevOps
 - 📱 Building real-world projects
 - 🌱 Currently learning Cloud & DevOps
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: nirudiramu118@gmail.com
 
 ---
 
@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Pega](https://img.shields.io/badge/Pega-0A66C2?style=for-the-badge)
+
 
 ---
 
@@ -44,5 +44,5 @@ React + Email Integration
 
 ## Connect with me
 
-LinkedIn: your-linkedin-url
-Portfolio: your-website-link
+LinkedIn: https://www.linkedin.com/in/nirudi-ramu
+#Portfolio: your-website-link
