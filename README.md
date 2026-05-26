@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Ramu Nirudi
 
-<!--
-**RamuNirudi/RamuNirudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React.js | Node.js | Pega Developer
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 React.js Developer
+- 🔥 Learning AI & DevOps
+- 📱 Building real-world projects
+- 🌱 Currently learning Cloud & DevOps
+- 📫 Email: yourmail@gmail.com
+
+---
+
+## Skills
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Pega](https://img.shields.io/badge/Pega-0A66C2?style=for-the-badge)
+
+---
+
+## Projects
+
+### 🥒 Pickle E-Commerce Website
+React + Razorpay + Google Sheets
+
+### 📊 Employee Attendance System
+React + Node + MySQL
+
+### 🤖 FutureSpaces Chatbot
+React + Email Integration
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RamuNirudi&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamuNirudi&layout=compact)
+
+---
+
+## Connect with me
+
+LinkedIn: your-linkedin-url
+Portfolio: your-website-link
