@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Ramu Nirudi
 
-### 🚀 Full Stack Developer | React.js | Node.js | Pega Developer
+### 🚀 Full Stack Developer | React.js | Node.js 
 
 Passionate developer focused on building modern web applications and solving real-world problems.
 
@@ -12,9 +12,9 @@ Passionate developer focused on building modern web applications and solving rea
 
 - 🔭 Currently working on Full Stack applications
 - 🌱 Learning DevOps & AI technologies
-- 💻 Strong in React.js and Pega development
+- 💻 Strong in React.js and Node.js development
 - 🚀 Interested in Cloud and scalable applications
-- 📫 Reach me: yourmail@gmail.com
+- 📫 Reach me: nirudiramu118@gmail.com
 
 <br/>
 
@@ -46,7 +46,7 @@ Passionate developer focused on building modern web applications and solving rea
 
 ### Other Technologies
 
-![Pega](https://img.shields.io/badge/Pega-0A66C2?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-0A66C2?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
@@ -119,11 +119,11 @@ Features:
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirudi-ramu/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_WEBSITE)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nirudiramu118@gmail.com)
 
 ---
 
