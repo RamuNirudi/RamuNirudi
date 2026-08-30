@@ -17,6 +17,7 @@ Passionate developer focused on building modern web applications and solving rea
 - 📫 Reach me: nirudiramu118@gmail.com
 
 <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=RamuNirudi&color=blue)
 
 ---
 
